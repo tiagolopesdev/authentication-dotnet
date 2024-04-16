@@ -1,0 +1,6 @@
+@fiap_jwt_api_HostAddress = http://localhost:5167
+
+GET {{fiap_jwt_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
